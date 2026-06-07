@@ -1,1 +1,2 @@
 paramiko>=3.4.0
+telnetlib3>=2.0.4
